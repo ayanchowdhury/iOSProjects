@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  StormViewer
+//  FoodTracker
 //
-//  Created by Ayan  Chowdhury on 10/17/17.
-//  Copyright © 2017 Ayan  Chowdhury. All rights reserved.
+//  Created by Ayan  Chowdhury on 2/23/18.
+//  Copyright © 2018 Ayan  Chowdhury. All rights reserved.
 //
 
 import UIKit
